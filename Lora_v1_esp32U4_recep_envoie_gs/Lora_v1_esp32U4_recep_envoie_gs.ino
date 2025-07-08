@@ -1,7 +1,7 @@
 #include "Arduino.h"
 #include "LoRa_E32.h"
 #include <WiFi.h>
-
+kaiza
 // Remplace par le nom de ton réseau Wi-Fi et ton mot de passe
 const char* ssid = "PIX-LINK-2.4G";
 const char* password = "naturanowifi1";
